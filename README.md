@@ -1,7 +1,7 @@
 # poisson-image-edit
 ## Introduction
 Inplementation of Poisson image edit algorithm proposed by "Poisson image editing | ACM SIGGRAPH 2003 Papers. 2003: 313-318." The 
-project is written under the framework of Qt5 and uses [Eigen library](https://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix caculation. 
+project is written under the framework of Qt5 and uses [Eigen library](https://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix calculation. 
 Please configure the environment before executing this project.
 ## Effect diagrams
 ![Mona Lisa](https://user-images.githubusercontent.com/75468552/170012080-9985ec72-56ee-42c3-8218-c026b3ed6687.jpg)  
